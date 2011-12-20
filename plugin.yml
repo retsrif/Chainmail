@@ -1,0 +1,5 @@
+name: Chainmail
+version: 1.0
+author: retsrif
+main: retsrif.Chainmail.Chainmail
+depend: [Spout]
