@@ -63,7 +63,7 @@ public class Chainmail extends JavaPlugin {
 		SpoutManager.getMaterialManager().registerSpoutRecipe(bootsRecipe);
 	}
 	
-	//Code taken from Pamelloes' More Furnaces port
+	//Code taken from Rycochet
 	public boolean extractFile(String regex, boolean cache) {
 		boolean found = false;
 		try {
